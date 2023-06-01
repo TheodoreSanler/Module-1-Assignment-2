@@ -1,0 +1,103 @@
+* {
+    /* border: 1px solid red; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.main-form {
+    border: 1px solid grey;
+    border-radius: 3px;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 10%;
+    padding-bottom: 25px;
+    width: 400px;
+    
+}
+
+h1{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 1.8em;
+    font-weight: 200;
+}
+form{
+    margin-left: 15px;
+}
+
+label{
+    font: 2em;
+}
+
+#email {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 360px;
+    height: 25px;
+}
+
+#password{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 360px;
+    height: 25px;
+}
+
+#password-title{
+    margin-left: 40px;
+    margin-right: 135px;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    background-color: gold;
+    width: 360px;
+    height: 33px;
+    border-radius: 3px;
+}
+
+#help-link{
+    margin-top: 25px;
+}
+
+.new-to-amazon {
+   justify-content: center;
+   align-items: center;
+   margin-left: 44%;
+   margin-top: 8px;
+}
+
+#create-button {
+    margin-left: 36%;
+    width: 370px;
+    margin-top: 10px;
+    background-color: lightgoldenrodyellow;
+    margin-bottom: 50px;
+    border-color: lightgray;
+}
+
+footer{
+    border-top: solid grey;
+}
+
+.terms {
+    margin-top: 40px;
+    margin-left: 40%;
+    font-size: small;
+}
+
+#privacy {
+    margin-left: 20px;
+}
+
+#help {
+    margin-left: 20px;
+}
+
+.copyright {
+    margin-left: 40%;
+    font-size: small;
+    margin-top: 20px;
+}
